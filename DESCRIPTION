@@ -1,0 +1,34 @@
+Package: SIRCFinder
+Title: Detect SIRC elements in eukaryotic genome fasta
+Version: 1.0.0
+Authors@R: c(
+    person("Igor", "Gorbenko", email = "gorbenko@sifibr.irk.ru", role = c("aut", "cre")),
+    person("Karolina", "Zverintseva", email = "zverinceva.karolina@gmail.com", role = "aut"))
+Description: Performs detection of SIRC elements in user-provided fasta genome file.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.3
+SystemRequirements: C++17, TBB, GNU make
+LinkingTo: Rcpp, RcppParallel
+Imports: 
+    plyranges,
+    Rcpp,
+    RcppParallel
+RemoteType: local
+RemotePkgRef: local::C:/git/SIRCFinder-main/SIRCFinder-main/
+RemoteUrl: C:/git/SIRCFinder-main/SIRCFinder-main
+RemoteType: local
+RemotePkgRef: local::C:/git/SIRCFinder-main/SIRCFinder-main/
+RemoteUrl: C:/git/SIRCFinder-main/SIRCFinder-main
+RemoteType: local
+RemotePkgRef: local::C:/git/SIRCFinder-main/SIRCFinder-main/
+RemoteUrl: C:/git/SIRCFinder-main/SIRCFinder-main
+RemoteType: local
+RemotePkgRef: local::C:/git/SIRCFinder-main/SIRCFinder-main/
+RemoteUrl: C:/git/SIRCFinder-main/SIRCFinder-main
+RemoteType: local
+RemotePkgRef: local::C:/git/SIRCFinder-main/SIRCFinder-main/
+RemoteUrl: C:/git/SIRCFinder-main/SIRCFinder-main
+RemoteType: local
+RemotePkgRef: local::C:/git/SIRCFinder-main/SIRCFinder-main/
+RemoteUrl: C:/git/SIRCFinder-main/SIRCFinder-main
