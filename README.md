@@ -23,7 +23,7 @@ the elements are helpful as stable anchors for synteny analysis.
 ``` r
 library(devtools)
 # Install SIRCFinder from GitHub
-pak::pak("Daynoru/SIRCFinderv2")
+pak::pak("ivg-git/SIRCfinderV3")
 ```
 
 # **Usage**
